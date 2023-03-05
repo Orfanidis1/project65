@@ -1,0 +1,25 @@
+#zooatl{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-weight: bold;
+}
+#zoo{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+#bdy{
+    text-align: center;
+    background-color: brown;
+}
+#btn{
+    background-color: green;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+#img{
+    width: 400px;
+    height: 400px;
+}
